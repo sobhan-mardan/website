@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal academic website, hosted on **GitHub Pages**.
 
-🔗 **Live site:** https://sobhanmardan.github.io
+🔗 **Live site:** https://sobhan-mardan.github.io/website/
 
 ---
 
