@@ -14,18 +14,11 @@
     "text": "[1] S. Mardan-Dezfouli. “The impact of abdominal body contouring surgery on physical function after a massive weight loss: a pilot non-randomized controlled trial”. Thesis. University of British Columbia, 2021.\n\n\n\n[1] M. D. Fliss, J. Stevenson, S. Mardan-Dezfouli, D. C. Li, and C. J. Mitchell. “Higher- and lower-load resistance exercise training induce load-specific local muscle endurance changes in young women: a randomised trial”. In: Applied Physiology, Nutrition, and Metabolism 47 (12 Dec. 2022), pp. 1143-1159. ISSN: 1715-5312. DOI: 10.1139/apnm-2022-0263.\n[2] S. Mardan-Dezfouli, O. G. Reid, M. D. Fliss, J. Stevenson, D. Harris, M. R. Lyon, M. S. Koehle, and C. J. Mitchell. “The Impact of Abdominal Body Contouring Surgery on Physical Function After Massive Weight Loss: A Pilot Prospective Matched Comparison”. In: Aesthetic Surgery Journal 43 (1 Jan. 2023), pp. NP28-NP37. ISSN: 1090-820X. DOI: 10.1093/asj/sjac220.\n\n\n\n[1] D. Sarfaraz, S. Mardan-Dezfouli, J. Chang, M. Stewart, D. Lyndon, and S. Nicolaou. “Orbital imaging parameters as predictors of thyroid eye diseases: a case-control retrospective study”. In: Canadian Association of Radiologists. 2025."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sobhan Mardan",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Pharmacoepidemiology R Causal Inference Real-World Evidence\nTurning real-world health data into drug safety insights\nPhD Student @ UBC | Research Coordinator @ Vancouver General Hospital\nI am a PhD student in Pharmaceutical Sciences specializing in pharmacoepidemiology where I evaluate the real-world effectiveness and safety of drug therapies.\nFor my doctoral research, I am studying oral anti-coagulation (OAC) therapy in patients with atrial fibrillation (AF). Using causal inference methods applied to observational data, I examine whether patients’ frailty status modifies the effectiveness of OAC, with a focus on clinically important outcomes such as stroke and mortality."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Currently building:\n- Propensity score models for anti-coagulants safety\n- Shiny apps for adverse event dashboards"
+    "text": "This is where I will place my projects."
   },
   {
     "objectID": "cv.html",
@@ -35,11 +28,46 @@
     "text": "Download CV"
   },
   {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": " Summary",
+    "text": "Summary\nI have been fortunate to work across a range of clinical and research environments that have shaped both my research interests and professional perspective. Through this work, I have gained exposure to diverse clinical conditions, research methodologies, and healthcare practices, and have developed a strong appreciation for how research translates into real-world patient care.\nWhat I find most rewarding is working collaboratively with multidisciplinary teams to bring ideas together and contribute to evidence-based care that can make a meaningful difference for patients.\nBelow is a summary of my experience, skills, and recognitions so far, which I look forward to continuing to build as my training and career progress."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": " Education",
+    "text": "Education\n\nPhD in Pharmaceutical Science - University of British Columbia (2026 - present)\nMSc in Kinesiology – University of British Columbia (2021)\nBSc in Biomedical Physiology and Kinesiology – Simon Fraser University (2018)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": " Skills",
+    "text": "Skills\n\nR, Python, Shiny apps\nCausal Inference, Time-to-event analysis, Biostatistics\nResearch Communication"
+  },
+  {
     "objectID": "cv.html#work-experience",
     "href": "cv.html#work-experience",
     "title": "Curriculum Vitae",
     "section": " Work Experience",
     "text": "Work Experience\n\nVancouver General Hospital Department of Radiology\nResearch Coordinator (2023 - present)\n\nDevelop and manage research ethics applications.\nDevelop proposals and analysis plans for research projects.\nCreate data analysis reports using the R statistical program.\nPrepare manuscripts, abstracts, clinical study report.\nParticipate in team grant writing applications.\nMentor research fellows, medical students, co-op students in their research projects.\nWork with the principal investigators to develop feasible research projects and budgets.\nOrganize and develop studies on REDCap database.\nAct as a liaison between stakeholders including principal investigators, hospital administrators and sponsors.\nManage industry-funded clinical trials.\n\n\n\nNova Scotia Health Authority Department of Geriatric Medicine\nResearch Assistant (2021-2023)\n\nDeveloped performance analytics for clinical trials using intelligence dashboards.\nAnalyzed collected data via R statistical program and developed reports for communication amongst study partners and stakeholders.\nManaged databases for scoping reviews.\nCollected data using REDCap software.\nPrepared study protocol documents and obtained approval from the NSHA Research Ethics Board.\nScreened and enrolled participants based on the predetermined study criteria and obtained written consent.\nPerformed routine cognitive and physical assessment as per protocol.\nContributed to grant applications.\nDeveloped budget for building a state-of-the-art aging research laboratory.\n\n\n\nUniversity of British Columbia School of Kinesiology\nGraduate Thesis Study Coordinator (2019-2021)\n\nPrepared clinical trial documents, research ethics submission and registration\nCollected, analyzed, and interpreted data utilizing appropriate statistics and presented data in an interactive graphical manner using SPSS and Microsoft Excel.\nScreened and enrolled participants based on the predetermined study criteria and obtained written consent.\nCoordinated participant recruitment from multiple clinical and surgical centers to ensure adequate recruitment and retention rates.\n\nGraduate Teaching Assistant (2019-2021)\n\nConducted tutorial sessions on physiology and anatomy for students on a weekly basis.\nCollaborated with the course instructor to develop best practice learning resources for students\n\n\n\nObesity Medicine and Diabetes Institute\nKinesiologist & Physician Assistant (2018-2019)\n\nAssisted the medical director, clinicians, and program dietitian in managing patient care by taking extensive medical and weight histories, screening new patients, collecting anthropomorphic measurements, writing detailed consultations and referral letters to other physicians, and maintaining patient’s electronic medical records.\nTook anthropometric measurements and blood pressure readings; assessed basal metabolic rates via indirect calorimetry.\nDeveloped and modified program material based on current scientific evidence for obesity management.\nProvided one-on-one nutrition and physical activity education to motivate patients to live healthy lifestyles.\nPresented educational and interactive group medical visit sessions for patients on a weekly basis."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Currently developing my thesis."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sobhan Mardan",
+    "section": "",
+    "text": "Pharmacoepidemiology R Causal Inference Real-World Evidence\nTurning real-world health data into drug safety insights\nPhD Student @ UBC | Research Coordinator @ Vancouver General Hospital\nI am a PhD student in Pharmaceutical Sciences specializing in pharmacoepidemiology where I evaluate the real-world effectiveness and safety of drug therapies.\nFor my doctoral research, I am studying oral anti-coagulation (OAC) therapy in patients with atrial fibrillation (AF). Using causal inference methods applied to observational data, I examine whether patients’ frailty status modifies the effectiveness of OAC, with a focus on clinically important outcomes such as stroke and mortality."
   },
   {
     "objectID": "publications.html",
@@ -54,33 +82,5 @@
     "title": "Publications",
     "section": "",
     "text": "[1] S. Mardan-Dezfouli. “The impact of abdominal body contouring surgery on physical function after a massive weight loss: a pilot non-randomized controlled trial”. Thesis. University of British Columbia, 2021.\n\n\n\n[1] S. Mardan-Dezfouli, O. G. Reid, M. D. Fliss, J. Stevenson, D. Harris, M. R. Lyon, M. S. Koehle, and C. J. Mitchell. “The Impact of Abdominal Body Contouring Surgery on Physical Function After Massive Weight Loss: A Pilot Prospective Matched Comparison”. In: Aesthetic Surgery Journal 43 (1 Jan. 2023), pp. NP28-NP37. ISSN: 1090-820X. DOI: 10.1093/asj/sjac220.\n[2] M. D. Fliss, J. Stevenson, S. Mardan-Dezfouli, D. C. Li, and C. J. Mitchell. “Higher- and lower-load resistance exercise training induce load-specific local muscle endurance changes in young women: a randomised trial”. In: Applied Physiology, Nutrition, and Metabolism 47 (12 Dec. 2022), pp. 1143-1159. ISSN: 1715-5312. DOI: 10.1139/apnm-2022-0263.\n\n\n\n[1] D. Sarfaraz, S. Mardan-Dezfouli, J. Chang, M. Stewart, D. Lyndon, and S. Nicolaou. “Orbital imaging parameters as predictors of thyroid eye diseases: a case-control retrospective study”. In: Canadian Association of Radiologists. 2025.\n[2] C. Jeavons, Y. Zhang, A. Marcuzzi, S. Murphy, S. Mardan-Dezfouli, M. Mannas, and S. Chang. “Targeted Biopsy on Unilateral mpMRI Prostate PIRADS 4 and 5 lesions: Time to Omit Contralateral Biopsies”. In: Canadian Association of Radiologists. 2024.\n[3] A. Maqsood, M. Asghar, S. Mardan-Dezfouli, and F. Khosa. “Gender and racial composition in leadership positions: a comprehensive analysis across medical specialties in Canada”. In: Canadian Association of Emergency Physicians. 2024.\n[4] S. Mardan-Dezfouli. “Exercise After Bariatric Surgery”. In: Canadian Association of Bariatric Physicians and Surgeons. 2022.\n[5] S. Mardan-Dezfouli. “The Impact of Abdominal Body Contouring Surgery on Physical Function After a Massive Weight Loss: A Pilot Non-Randomized Controlled Trial”. In: Canadian Society for Exercise Physiology. 2021."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": " Education",
-    "text": "Education\n\nPhD in Pharmaceutical Science - University of British Columbia (2026 - present)\nMSc in Kinesiology – University of British Columbia (2021)\nBSc in Biomedical Physiology and Kinesiology – Simon Fraser University (2018)"
-  },
-  {
-    "objectID": "cv.html#summary",
-    "href": "cv.html#summary",
-    "title": "Curriculum Vitae",
-    "section": " Summary",
-    "text": "Summary\nI have been fortunate to work across a range of clinical and research environments that have shaped both my research interests and professional perspective. Through this work, I have gained exposure to diverse clinical conditions, research methodologies, and healthcare practices, and have developed a strong appreciation for how research translates into real-world patient care.\nWhat I find most rewarding is working collaboratively with multidisciplinary teams to bring ideas together and contribute to evidence-based care that can make a meaningful difference for patients.\nBelow is a summary of my experience, skills, and recognitions so far, which I look forward to continuing to build as my training and career progress."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This is where I will place my projects."
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": " Skills",
-    "text": "Skills\n\nR, Python, Shiny apps\nCausal Inference, Time-to-event analysis, Biostatistics\nResearch Communication"
   }
 ]
