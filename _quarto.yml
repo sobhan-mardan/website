@@ -22,8 +22,5 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-    
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+ execute:
+  freeze: auto # only re-render if the items actually change
