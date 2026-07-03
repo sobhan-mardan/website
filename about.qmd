@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-Currently developing my thesis.
